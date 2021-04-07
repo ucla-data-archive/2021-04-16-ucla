@@ -69,8 +69,17 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <h2>Register Now!</h2>
 <p>Please register separately for each workshop in the series. </p>
-<p>
-<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+
+<div class="row">
+  <div class="col-md-6">
+   <table class="table table-striped">
+     <thead>
+      <tr>
+        <th scope="col">Date</th>
+        <th scope="col">Lesson</th>
+      </tr>
+     </thead>
+      <tr> <td>April 16</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
   <style>
@@ -86,8 +95,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 #s_lc_event_7627923:hover {
   opacity: 0.9;
 }
-</style>
-
+</style></tr>
+      <tr> <td>April </td>  <td>
     <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
 <!-- Below is optional element styling  //-->
@@ -104,9 +113,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 #s_lc_event_7627930:hover {
   opacity: 0.9;
 }
-</style>
-
-    <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
+</style></td> </tr>
+      <tr> <td>April </td>  <td>  <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
 <a id="s_lc_event_7627924" href="https://calendar.library.ucla.edu/event/7627924">Python Session 1</a>
 <!-- Below is optional element styling  //-->
 <style>
@@ -123,7 +131,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-
+</td> </tr>
+      <tr> <td>April </td>  <td> 
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
 <a id="s_lc_event_7627926" href="https://calendar.library.ucla.edu/event/7627926">Python Session 2</a>
 <!-- Below is optional element styling  //-->
@@ -141,9 +150,11 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
+</td> </tr>
 
-</p>
-
+    </table>
+  </div>
+</div>
 {% comment %}
 EVENTBRITE
 
