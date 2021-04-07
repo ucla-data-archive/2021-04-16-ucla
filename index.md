@@ -86,7 +86,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   border-radius: 4px;
   color: #E7F5F3;
   font: 14px Arial, Helvetica, Verdana;
-  padding: 100px 20px;
+  padding: 8px 20px;
   cursor: pointer;
 }
 #s_lc_event_7627923:hover {
