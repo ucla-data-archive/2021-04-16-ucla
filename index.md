@@ -71,7 +71,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <p>Please register separately for each workshop in the series. </p>
 
 <div id="register">
-<div class="row">
+<div class="row" style="height: 100px; background-color: rgba(255,0,0,0.1);">
   <div class="col-md-4">
   April 16, 9 am - 12:30 pm </div> 
 <div class="col-md-8">
