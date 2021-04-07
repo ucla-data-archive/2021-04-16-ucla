@@ -67,8 +67,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
-<h2> Register!</h2>
-<p>
+<h2>Register Now!</h2>
+<p>Please register separately for each workshop in the series. </p>
 <ul>
   <li>
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
@@ -108,9 +108,44 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
   </li>
-
-</p>
-
+  <li> 
+    <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
+<a id="s_lc_event_7627924" href="https://calendar.library.ucla.edu/event/7627924">Python Session 1</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7627924 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #FAF5F5;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627924:hover {
+  opacity: 0.9;
+}
+</style>
+  </li>
+  <li>
+<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
+<a id="s_lc_event_7627926" href="https://calendar.library.ucla.edu/event/7627926">Python Session 2</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7627926 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #FAF5F5;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627926:hover {
+  opacity: 0.9;
+}
+</style>
+  </li>
 
 {% comment %}
 EVENTBRITE
