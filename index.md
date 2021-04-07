@@ -92,7 +92,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-  
+  </div>
 <div class="col-sm-4">
 April 14, 9 am - 12:30 pm 
 </div>
