@@ -72,9 +72,9 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-md-4">
   April 16, 9 am - 12:30 pm </div> 
-<div class="col-sm-8">
+<div class="col-md-8">
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
@@ -93,10 +93,10 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
   </div>
-<div class="col-sm-4">
+<div class="col-md-4">
 April 14, 9 am - 12:30 pm 
 </div>
-<div class="col-sm-8">
+<div class="col-md-8">
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
 <!-- Below is optional element styling  //-->
@@ -116,10 +116,10 @@ April 14, 9 am - 12:30 pm
 </style>
 </div>
 
-<div class="col-sm-4">
+<div class="col-md-4">
 April 30, 9 am - 12:30 pm 
 </div>
-<div class="col-sm-8">
+<div class="col-md-8">
 
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
 <a id="s_lc_event_7627924" href="https://calendar.library.ucla.edu/event/7627924">Python Session 1</a>
@@ -140,10 +140,10 @@ April 30, 9 am - 12:30 pm
 </style>
 </div>
 
-<div class="col-sm-4">
+<div class="col-md-4">
 May 7, 9 am - 12:30 pm 
 </div>
-<div class="col-sm-8">
+<div class="col-md-8">
 
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
 <a id="s_lc_event_7627926" href="https://calendar.library.ucla.edu/event/7627926">Python Session 2</a>
