@@ -68,10 +68,11 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 <h2> Register!</h2>
-<p><ul>
-  <li>Introduction to the Bash Shell Command Line 
+<p>
+<ul>
+  <li>
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
-<a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">CLICK AND REGISTER</a>
+<a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
   <style>
 #s_lc_event_7627923 {
@@ -88,7 +89,24 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
   </li>
-  <li> Intro to Git/GitHub
+  <li> 
+    <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7627930 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #F7F2F2;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627930:hover {
+  opacity: 0.9;
+}
+</style>
   </li>
 
 </p>
