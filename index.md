@@ -72,9 +72,9 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <div class="row">
   <div class="col-sm-4">
-April 16
+  April 16, 9 am - 12:30 pm
 </div> 
-<div class="col-sm-8<
+<div class="col-sm-8">
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
