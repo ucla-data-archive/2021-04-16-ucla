@@ -69,8 +69,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <h2>Register Now!</h2>
 <p>Please register separately for each workshop in the series. </p>
-<ul>
-  <li>
+<p>
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
@@ -88,8 +87,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-  </li>
-  <li> 
+
     <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
 <!-- Below is optional element styling  //-->
@@ -107,8 +105,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-  </li>
-  <li> 
+
     <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
 <a id="s_lc_event_7627924" href="https://calendar.library.ucla.edu/event/7627924">Python Session 1</a>
 <!-- Below is optional element styling  //-->
@@ -126,8 +123,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-  </li>
-  <li>
+
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
 <a id="s_lc_event_7627926" href="https://calendar.library.ucla.edu/event/7627926">Python Session 2</a>
 <!-- Below is optional element styling  //-->
@@ -145,7 +141,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-  </li>
+
+</p>
 
 {% comment %}
 EVENTBRITE
