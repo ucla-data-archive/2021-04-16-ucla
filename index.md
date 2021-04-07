@@ -67,14 +67,12 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
-<div id="register">
-<div class="row" style="height: 100px; background-color: rgba(255,0,0,0.1);">
-  <div class="col-md-8">
 <h2>Register Now!</h2>
 <p>Please register separately for each workshop in the series. </p>
-
+<div class="row">
+<div class="col-md-8">
 <table class="table table-striped">
-      <tr> <td>April 16, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<tr> <td>April 16, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
   <style>
@@ -103,8 +101,6 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
     </table>
     
 </div> 
-
-</div>
 </div>
                                                                                  
 {% comment %}
