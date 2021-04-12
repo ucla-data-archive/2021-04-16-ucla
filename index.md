@@ -90,7 +90,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
 </td> </tr>
-      <tr> <td>April 14, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+      <tr> <td>April 23, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
 <!-- Below is optional element styling  //-->
 <style>
